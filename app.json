@@ -1,0 +1,19 @@
+{
+  "displayName": "GeoKick",
+  "name": "GeoKick",
+  "expo": {
+    //"displayName": "Fero",
+    "name": "GeoKick",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.5",
+    "slug": "GeoKick",
+    "splash": {"image": "./app/assets/images/fero-splash.png","resizeMode": "cover"},
+    "ios": {
+      "bundleIdentifier": "com.me.GeoKick",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.me.GeoKick"
+    }
+    }
+}
